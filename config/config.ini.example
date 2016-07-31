@@ -1,7 +1,7 @@
 # Authentication settings
 #auth-service:          # ptc (default) or google
-#username:
-#password:
+#username:              fsuimtraining
+#password:              tully-1035
 
 # Database settings
 #db-type: sqlite        # sqlite (default) or mysql
@@ -11,16 +11,16 @@
 #db-pass:               # required for mysql
 
 # Search settings
-#location:
+#location:              Tallahassee, FL
 #no-gyms:               # disables gym scanning (default false)
 #no-pokemon:            # disables pokemon scanning (default false)
 #no-pokestops:          # disables pokestop scanning (default false)
 #num-threads:           # number of search threads (default 1)
 #scan-delay:            # default 5
-#step-limit:            # default 12
+#step-limit:            # default 7
 
 # Misc
-#gmaps-key:             # your Google Maps API key
+#gmaps-key:             AIzaSyCE-meN5ocUn7Loydf6k15wKzUuOF2Ruwg 
 #webhook:               # webhook URL (including http://)
 
 # Webserver settings
